@@ -1,0 +1,8 @@
+prefix=/home/seeker/adp_tracking/detection/devel
+
+Name: aruco
+Description: Description of aruco
+Version: 0.2.2
+Cflags: -I/home/seeker/adp_tracking/detection/src/aruco_ros/aruco/include
+Libs: -L/home/seeker/adp_tracking/detection/devel/lib -laruco
+Requires: 

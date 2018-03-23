@@ -1,0 +1,2 @@
+aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:marker_pose_detection:pal_vision_segmentation
+-DCATKIN_DEVEL_PREFIX=/home/seeker/adp_tracking/detection/devel -DCMAKE_INSTALL_PREFIX=/home/seeker/adp_tracking/detection/install -G Unix Makefiles

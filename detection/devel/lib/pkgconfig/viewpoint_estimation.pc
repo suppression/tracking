@@ -1,0 +1,8 @@
+prefix=/home/seeker/adp_tracking/detection/devel
+
+Name: viewpoint_estimation
+Description: Description of viewpoint_estimation
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/seeker/adp_tracking/detection/devel/lib 
+Requires: roscpp

@@ -1,0 +1,8 @@
+prefix=/home/seeker/adp_tracking/detection/devel
+
+Name: pal_vision_segmentation
+Description: Description of pal_vision_segmentation
+Version: 1.0.0
+Cflags: -I/home/seeker/adp_tracking/detection/devel/include -I/home/seeker/adp_tracking/detection/src/pal_vision_segmentation/include
+Libs: -L/home/seeker/adp_tracking/detection/devel/lib -lpal_vision_segmentation
+Requires: geometry_msgs
