@@ -22,8 +22,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/seeker/adp_tracking/detection/src/aruco_ros/aruco_ros/include"
   "/home/seeker/adp_tracking/detection/src/aruco_ros/aruco/include"
   "/opt/ros/kinetic/include"
-  "/opt/ros/kinetic/include/opencv-3.3.1"
-  "/opt/ros/kinetic/include/opencv-3.3.1/opencv"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   )
 

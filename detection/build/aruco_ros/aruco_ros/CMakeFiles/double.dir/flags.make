@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"aruco_ros\"
 
-CXX_INCLUDES = -I/home/seeker/adp_tracking/detection/devel/include -I/home/seeker/adp_tracking/detection/src/aruco_ros/aruco_ros/include -I/home/seeker/adp_tracking/detection/src/aruco_ros/aruco/include -I/opt/ros/kinetic/include -isystem /opt/ros/kinetic/include/opencv-3.3.1 -isystem /opt/ros/kinetic/include/opencv-3.3.1/opencv -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/seeker/adp_tracking/detection/devel/include -I/home/seeker/adp_tracking/detection/src/aruco_ros/aruco_ros/include -I/home/seeker/adp_tracking/detection/src/aruco_ros/aruco/include -I/opt/ros/kinetic/include -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 
